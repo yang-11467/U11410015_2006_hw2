@@ -1,6 +1,8 @@
 # 畫世界的板塊交界帶
 系級：地生二 學號：U11410015 姓名：林柏揚
+
 地點選擇：東非大裂谷 AB剖面座標：(28, -3), (38, -3)
+
 製圖方法：我擷取老師在03中繪製的日本地區地形範例，並從Google map中找尋東非大裂谷的經緯度，透過改變參數的方式將位在地球上方的虛擬「鏡頭」從日本轉向東非。
 <img width="779" height="1342" alt="region_map" src="https://github.com/user-attachments/assets/67622c27-a13c-4caf-bcc3-36bf9a5748f2" />
 
